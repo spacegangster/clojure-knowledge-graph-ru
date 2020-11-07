@@ -5,14 +5,14 @@ Clojure. Knowledge graph in Russian.
 =================
 
   * [Проба ClojureScript](#Проба-ClojureScript)
+  * [Пути изучения Clojure](#Пути-изучения-Clojure)
   * [Сборники материалов](#Сборники-материалов)
   * [Книги](#Книги)
   * [Блоги](#Блоги)
-  * [License](#license)
   
 
 ## Проба ClojureScript
-Один из легчайших путей попробовать сделать проект на ClojureScript – shadow-cljs
+Один из легчайших путей попробовать сделать проект на ClojureScript – [shadow-cljs](http://shadow-cljs.org)
 
 
 ```
