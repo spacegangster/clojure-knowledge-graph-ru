@@ -75,12 +75,23 @@ shadow-cljs cljs-repl dev
 > Но это всё для Common Lisp. Для кложи я не читал ничего по метапрограммированию на макросах. Такое метапрограммирование не любят тут. 😁
 
 
+##### Mikhail Beliansky [8 May 2021]
+Книги классные Programming Clojure, Getting Clojure и Professional Clojure
+
+
 ## Книги
 * Иван Гришаев – Clojure в производстве. https://grishaev.me/clojure-in-prod/
 * Brave Clojure – https://www.braveclojure.com/foreword/
+* Elements of Clojure
+* SICP / [SICP Distilled](http://www.sicpdistilled.com/)
+* Getting Clojure
+* Programming Clojure
+* Professional Clojure
 
 ## Сборники материалов
-https://www.infoq.com/architecture-design
+* (Все лекции Рича Хикки)[https://github.com/tallesl/Rich-Hickey-fanclub]
+* https://github.com/papers-we-love/papers-we-love
+* https://www.infoq.com/architecture-design
 
 ## Блоги
 Иван Гришаев https://grishaev.me/
