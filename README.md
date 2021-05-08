@@ -87,11 +87,11 @@ https://www.infoq.com/architecture-design
 [repl.it](https://repl.it)
 
 ## Базы данных
-[Datomic](https://www.datomic.com) Clojure
-[Crux](https://opencrux.com/main/index.html) Clojure
-[datahike](https://github.com/replikativ/datahike) Clojure and ClojureScript
-[DataScript](https://github.com/tonsky/datascript) Clojure and ClojureScript
+* [Datomic](https://www.datomic.com) Clojure
+* [Crux](https://opencrux.com/main/index.html) Clojure
+* [datahike](https://github.com/replikativ/datahike) Clojure and ClojureScript
+* [DataScript](https://github.com/tonsky/datascript) Clojure and ClojureScript
 
 ## Фронтэнд фреймворки
-[re-frame](https://github.com/day8/re-frame)
-[fulcro](https://github.com/fulcrologic/fulcro)
+* [re-frame](https://github.com/day8/re-frame)
+* [fulcro](https://github.com/fulcrologic/fulcro)
