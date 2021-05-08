@@ -75,9 +75,23 @@ shadow-cljs cljs-repl dev
 
 ## Книги
 Иван Гришаев – Clojure в производстве. https://grishaev.me/clojure-in-prod/
+Brave Clojure – https://www.braveclojure.com/foreword/
 
 ## Сборники материалов
 https://www.infoq.com/architecture-design
 
 ## Блоги
 Иван Гришаев https://grishaev.me/
+
+## Online REPL
+[repl.it](https://repl.it)
+
+## Базы данных
+[Datomic](https://www.datomic.com) Clojure
+[Crux](https://opencrux.com/main/index.html) Clojure
+[datahike](https://github.com/replikativ/datahike) Clojure and ClojureScript
+[DataScript](https://github.com/tonsky/datascript) Clojure and ClojureScript
+
+## Фронтэнд фреймворки
+[re-frame](https://github.com/day8/re-frame)
+[fulcro](https://github.com/fulcrologic/fulcro)
