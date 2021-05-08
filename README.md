@@ -89,7 +89,7 @@ shadow-cljs cljs-repl dev
 * Professional Clojure
 
 ## Сборники материалов
-* (Все лекции Рича Хикки)[https://github.com/tallesl/Rich-Hickey-fanclub]
+* [Все лекции Рича Хикки](https://github.com/tallesl/Rich-Hickey-fanclub)
 * https://github.com/papers-we-love/papers-we-love
 * https://www.infoq.com/architecture-design
 
