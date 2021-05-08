@@ -76,8 +76,8 @@ shadow-cljs cljs-repl dev
 
 
 ## Книги
-Иван Гришаев – Clojure в производстве. https://grishaev.me/clojure-in-prod/
-Brave Clojure – https://www.braveclojure.com/foreword/
+* Иван Гришаев – Clojure в производстве. https://grishaev.me/clojure-in-prod/
+* Brave Clojure – https://www.braveclojure.com/foreword/
 
 ## Сборники материалов
 https://www.infoq.com/architecture-design
