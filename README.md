@@ -99,6 +99,9 @@ shadow-cljs cljs-repl dev
 ## Online REPL
 [repl.it](https://repl.it)
 
+## Упражнения
+https://exercism.org/ – площадка с упражнениями которые вы сможете показать друзьям и нанимателю
+
 ## Базы данных
 * [Datomic](https://www.datomic.com) Clojure
 * [Crux](https://opencrux.com/main/index.html) Clojure
