@@ -62,6 +62,9 @@ shadow-cljs cljs-repl dev
 ##### Ivan Fedorov
 > у меня в начале был этот туториал
 > https://objectcomputing.com/resources/publications/sett/march-2009-clojure-functional-programming-for-the-jvm
+Туториал древний 2009 года, но ещё достаточно релевантен и покрывает большое число тем.
+Если где-то неясно как работает функция – можно обратиться к ClojureDocs
+https://clojuredocs.org/clojure.core/dotimes
 
 ##### Anton Chikin, [9 Sep 2019 at 14:52:14]:
 > Вообще есть мнение что sicp устарел немного
@@ -92,6 +95,7 @@ shadow-cljs cljs-repl dev
 * [Все лекции Рича Хикки](https://github.com/tallesl/Rich-Hickey-fanclub)
 * https://github.com/papers-we-love/papers-we-love
 * https://www.infoq.com/architecture-design
+* Хорошие примеры на все функции из ядра Clojure https://clojuredocs.org/clojure.core/dotimes
 
 ## Блоги
 Иван Гришаев https://grishaev.me/
