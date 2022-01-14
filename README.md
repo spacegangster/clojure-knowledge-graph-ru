@@ -88,11 +88,13 @@ https://clojuredocs.org/clojure.core/dotimes
 ## Книги
 * Иван Гришаев – Clojure в производстве. https://grishaev.me/clojure-in-prod/
 * Brave Clojure – https://www.braveclojure.com/foreword/
-* Elements of Clojure
+* [Elements of Clojure](https://elementsofclojure.com/) (Zachary Tellman)
 * SICP / [SICP Distilled](http://www.sicpdistilled.com/)
-* Getting Clojure
-* Programming Clojure
-* Professional Clojure
+* [Getting Clojure](https://pragprog.com/titles/roclojure/getting-clojure/)
+* [Programming Clojure](https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/)
+* [Professional Clojure](https://www.wiley.com/en-us/Professional+Clojure-p-9781119267270)
+* [Clojure : the Essential Reference](https://www.manning.com/books/clojure-the-essential-reference)
+* [The Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition)
 
 ## Сборники материалов
 * [Все лекции Рича Хикки](https://github.com/tallesl/Rich-Hickey-fanclub)
