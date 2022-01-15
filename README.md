@@ -104,8 +104,8 @@ https://clojuredocs.org/clojure.core/dotimes
 * Хорошие примеры на все функции из ядра Clojure https://clojuredocs.org/clojure.core/dotimes
 
 ## Блоги
-Иван Гришаев https://grishaev.me/
-Zachary Tellman https://ideolalia.com/
+* Иван Гришаев https://grishaev.me/
+* Zachary Tellman https://ideolalia.com/
 
 ## Online REPL
 [repl.it](https://repl.it)
