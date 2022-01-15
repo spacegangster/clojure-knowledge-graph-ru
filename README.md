@@ -13,6 +13,7 @@ Clojure. Knowledge graph in Russian.
   * [Сборники материалов](#Сборники-материалов)
   * [Книги](#Книги)
   * [Блоги](#Блоги)
+  * [Упражнения и курсы](#Упражнения-и-курсы)
   
 
 ## Проба ClojureScript
@@ -104,12 +105,15 @@ https://clojuredocs.org/clojure.core/dotimes
 
 ## Блоги
 Иван Гришаев https://grishaev.me/
+Zachary Tellman https://ideolalia.com/
 
 ## Online REPL
 [repl.it](https://repl.it)
 
-## Упражнения
-https://exercism.org/ – площадка с упражнениями которые вы сможете показать друзьям и нанимателю
+## Упражнения и курсы
+* https://exercism.org/ – площадка с упражнениями которые вы сможете показать друзьям и нанимателю
+* Бесплатный курс на русском – https://ru.code-basics.com/languages/clojure
+* Учим re-frame https://www.learnreframe.com/ курс Jacek Schae
 
 ## Базы данных
 * [Datomic](https://www.datomic.com) Clojure
