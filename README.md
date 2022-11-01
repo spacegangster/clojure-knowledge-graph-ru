@@ -128,5 +128,6 @@ https://clojuredocs.org/clojure.core/dotimes
 * [DataScript](https://github.com/tonsky/datascript) Clojure and ClojureScript
 
 ## Фронтэнд фреймворки
-* [re-frame](https://github.com/day8/re-frame)
+* [reagent](https://reagent-project.github.io/). reagent принято считать обёрткой над React. На деле, reagent больше чем обёртка. Он также даёт [FRP инструменты](https://en.wikipedia.org/wiki/Functional_reactive_programming) для работы с состоянием, которые настолько просты и круты, что Вы больше никогда не захотите возвращаться к чёртовым хукам и сетСтейтам.
+* [re-frame](https://github.com/day8/re-frame). re-frame это как редакс, только редакс отстой, а после рефрейма думаешь – как же я раньше жил немытым.
 * [fulcro](https://github.com/fulcrologic/fulcro)
