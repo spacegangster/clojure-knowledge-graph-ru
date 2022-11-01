@@ -13,6 +13,7 @@ Clojure. Knowledge graph in Russian.
   * [Сборники материалов](#Сборники-материалов)
   * [Книги](#Книги)
   * [Блоги](#Блоги)
+  * [Видео](#Видео)
   * [Упражнения и курсы](#Упражнения-и-курсы)
   
 
@@ -96,6 +97,9 @@ https://clojuredocs.org/clojure.core/dotimes
 * [Professional Clojure](https://www.wiley.com/en-us/Professional+Clojure-p-9781119267270)
 * [Clojure : the Essential Reference](https://www.manning.com/books/clojure-the-essential-reference)
 * [The Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition)
+
+## Видео
+* [Синтаксис и базовые понятия Clojure. Никита Прокопов](https://www.youtube.com/watch?v=3NPBbYPYzhs&ab_channel=MoscowClojureUserGroup)
 
 ## Сборники материалов
 * [Все лекции Рича Хикки](https://github.com/tallesl/Rich-Hickey-fanclub)
