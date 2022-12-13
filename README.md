@@ -91,7 +91,7 @@ https://clojuredocs.org/clojure.core/dotimes
 * Иван Гришаев – Clojure в производстве. https://grishaev.me/clojure-in-prod/
 * Brave Clojure – https://www.braveclojure.com/foreword/
 * [Elements of Clojure](https://elementsofclojure.com/) (Zachary Tellman)
-* SICP / [SICP Distilled](http://www.sicpdistilled.com/)
+* SICP / [SICP Distilled (адаптация под Clojure)](http://www.sicpdistilled.com/)
 * [Getting Clojure](https://pragprog.com/titles/roclojure/getting-clojure/)
 * [Programming Clojure](https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/)
 * [Professional Clojure](https://www.wiley.com/en-us/Professional+Clojure-p-9781119267270)
